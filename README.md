@@ -1,1 +1,3 @@
-"# Frontend-Web-Patika" 
+# Frontend-Web-Patika
+
+[www.patika.dev](https://www.patika.dev/tr)
